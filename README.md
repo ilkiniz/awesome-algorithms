@@ -28,22 +28,21 @@ Katkıda bulunmak istiyorsanız lütfen okuyun. [contribution guidelines](https:
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) -Bilgisayar biliminde kullanılan yaygın algoritmaların Big-O karmaşıklıkları.
 * [Code-Drills](https://code-drills.com/tools/comparator) -Alıştırma problemleri için öneriler sunan bir websitesi (Codeforces, Codechef ve Spoj dahil).
 * [CP-Algorithms](https://cp-algorithms.com/) -Algoritmalar ve veri yapıları, özellikle rekabetçi(competitive) programlama alanında oldukça popülerdir.
-* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
-* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well-explained and implemented algorithms.
-* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation of how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search, and others describe a path between two points A and B.
-* [Programiz](https://www.programiz.com/dsa) - Easy to follow tutorials on data structures and algorithms along with suitable examples.
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site that aims to present implementations of many algorithms and data structures in different programming languages.
-* [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
-* [Stoimen's web log](http://www.stoimen.com/) - Some algorithms nicely explained.
-* [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
-* [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
-* [LearnGraphTheory](https://learngraphtheory.org/) - Interactive Algorithm Visualizer | Graph Theory Learning Platform.
-* [Learnersbucket](https://learnersbucket.com/) - Tutorials on data structures and algorithms in Javascript.
-* [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
-
+* [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) -Veri yapılarını ve davranışlarını görselleştir, işlemleriyle oynayabilirsin.
+* [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Çok sayıda, iyi açıklanmış ve uygulanmış algoritma.
+* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A*, IDA*, Breadth-First Search, Best-First Search ve diğer algoritmaların, A ve B noktaları arasındaki yolu nasıl tanımladığını gösteren görsel bir temsil.
+* [Programiz](https://www.programiz.com/dsa) -Uygun örneklerle birlikte, veri yapıları ve algoritmalar üzerine kolay takip edilebilir öğreticiler.
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) Birçok algoritma ve veri yapısının farklı programlama dillerindeki uygulamalarını sunmayı amaçlayan bir programlama örnekleri sitesi.
+* [Sorting Algorithms](http://www.sorting-algorithms.com/) -Kısa kodlar ve açıklamalarla birlikte, sıralama algoritmalarının hoş ve basit animasyonları.
+* [Stoimen's web log](http://www.stoimen.com/) - Bazı algoritmaların güzel açıklamaları.
+* [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) -Sıralama algoritmalarının "seslendirilmesi" (audibilization) ve görselleştirilmesi.
+* [VisuAlgo](http://visualgo.net) -Veri yapıları ve algoritmaları animasyon aracılığıyla görselleştirme.
+* [LearnGraphTheory](https://learngraphtheory.org/) -Etkileşimli algoritma görselleştirici | Grafik teorisi öğrenme platformu.
+* [Learnersbucket](https://learnersbucket.com/) -JavaScript’te veri yapıları ve algoritmalar üzerine öğreticiler.
+* [redblobgames](https://www.redblobgames.com/) -Bilgisayar oyunlarından alınan motive edici örnekler kullanarak matematik ve algoritmaların etkileşimli görsel açıklamaları.
 ## Youtube Playlists
 
-*High Quality Courses and tutorials on youtube*
+*Youtube'da yüksek kaliteli kurs ve rehberler*
 
 * [Tim Roughgarden. Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Tim Roughgarden, a pioneer of computer science, offers a companion to his book, with lecture videos and slides.
 * [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
