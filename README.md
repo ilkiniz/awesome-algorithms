@@ -246,15 +246,15 @@ Katkıda bulunmak istiyorsanız lütfen okuyun. [contribution guidelines](https:
 * [**Codility**](https://app.codility.com/programmers/challenges/) - Üst düzey şirketlerde iş bulmak için algoritma yarışmaları.
 
 
-## Blogs
+## **Bloglar**
 
-*Awesome list of blogs, mainly for competitive programming but you can refer to these when learning a new topic/algorithm*
+*Harika blog listesi — ağırlıklı olarak rekabetçi programlama (competitive programming) odaklı, ancak yeni bir konu veya algoritma öğrenirken de başvurabileceğin kaynaklar.*
 
-* [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054) - Awesome blog for all the resources and list of books and algorithms.
-* [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) - A good blog by Petr Mitrichev, mainly in Java.
-* [Sport of Programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - Informative blog for starting with the sport of programming.
-* [Algorithms and Data Structures](http://www.allisons.org/ll/AlgDS/) - For getting a deeper knowledge of algorithms and how to think in the right direction.
-* [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve. 
+* [**An awesome list for competitive programming!**](https://codeforces.com/blog/entry/23054) - Tüm kaynaklar, kitaplar ve algoritmaların listelendiği mükemmel bir blog.
+* [**Algorithms Weekly**](https://petr-mitrichev.blogspot.com/) - Petr Mitrichev tarafından yazılmış, çoğunlukla Java odaklı kaliteli bir blog.
+* [**Sport of Programming**](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) - Programlama yarışmalarına başlaman için bilgilendirici bir blog.
+* [**Algorithms and Data Structures**](http://www.allisons.org/ll/AlgDS/) - Algoritmalar hakkında daha derin bilgi edinmek ve doğru düşünme yönünü geliştirmek için ideal bir kaynak.
+* [**Algorithm Tutorials by Tanuj Khattar**](https://tanujkhattar.wordpress.com/) - Tanuj Khattar’ın mükemmel blogu. İlginç veri yapıları üzerine öğreticiler ve çözülmesi gereken örnek problemler içeriyor.
 
 
 ## **Araçlar (Tools)**
