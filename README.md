@@ -42,75 +42,82 @@ Katkıda bulunmak istiyorsanız lütfen okuyun. [contribution guidelines](https:
 * [redblobgames](https://www.redblobgames.com/) -Bilgisayar oyunlarından alınan motive edici örnekler kullanarak matematik ve algoritmaların etkileşimli görsel açıklamaları.
 ## Youtube Playlists
 
-*Youtube'da yüksek kaliteli kurs ve rehberler*
+*YouTube'da yüksek kaliteli kurslar ve rehberler*
 
-* [Tim Roughgarden. Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Tim Roughgarden, a pioneer of computer science, offers a companion to his book, with lecture videos and slides.
-* [FreeCodeCamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Complete beginner friendly Algorithms and Data Structures Tutorial with mindblowing animation.
-* [Abdul Bari - Introduction to Algorithm](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - This playlist is so much informative and provide simulation with code example. As like as you are in a class.
-* [Jenny's Lectures- Algorithm](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Another complete algorithm playlist from basic level to intermediate. Easy explanation and simulation.
+* [Tim Roughgarden - Algorithms Illuminated](https://www.algorithmsilluminated.org/) - Bilgisayar biliminin öncülerinden Tim Roughgarden, kitabına eşlik eden ders videoları ve slaytlar sunuyor.
+* [FreeCodeCamp - Algoritmalar ve Veri Yapıları Eğitimi - Yeni Başlayanlar için Tam Kurs](https://www.youtube.com/watch?v=8hly31xKli0) - Yeni başlayanlar için eksiksiz bir algoritmalar ve veri yapıları eğitimi; etkileyici animasyonlarla anlatılmış.
+* [Abdul Bari - Algoritmalara Giriş](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Bu oynatma listesi son derece bilgilendirici; kod örnekleriyle birlikte simülasyonlar içeriyor. Sanki bir sınıfta ders dinliyormuşsunuz gibi.
+* [Jenny’s Lectures - Algoritmalar](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Temel seviyeden orta seviyeye kadar ilerleyen eksiksiz bir algoritma oynatma listesi. Açık, kolay anlaşılır açıklamalar ve simülasyonlar içeriyor.
 
 ## Online Courses
 
-*Free and High-Quality Courses Online*
+*Ücretsiz ve yüksek kaliteli çevrim içi kurslar*
 
-* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - The primary topics are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer, and randomized algorithms.
-* [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - The primary topics are: data structures, graph primitives, and their applications.
-* [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - The primary topics are: greedy algorithms and dynamic programming.
-* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - The primary topics are: shortest paths, NP-completeness and what it means for the algorithm designer, and strategies for coping with computationally intractable problems.
-* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - This course covers the essential information that every serious programmer needs to know about algorithms and data structures. Part I covers elementary data structures, sorting, and searching algorithms. 
-* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - Part II focuses on graph- and string-processing algorithms.
-* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Algorithm course ministered by Tomas Cormen and Devin Balkcom.
-* [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - Well explained algorithms.
-* [MIT - 6-046j](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/) - Similar to the previous one, but with different algorithms.
-* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - An easy and well-explained introduction to algorithms.
-* [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
-* [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
-* [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
+* [Algorithms: Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) - Ana konular: asimptotik ("Big-O") gösterimi, sıralama ve arama, böl ve fethet yaklaşımı, ve rastgele algoritmalar.
+* [Algorithms: Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) - Ana konular: veri yapıları, grafik temelleri ve bunların uygulamaları.
+* [Algorithms: Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) - Ana konular: açgözlü algoritmalar, minimum kapsayan ağaçlar ve dinamik programlama.
+* [Algorithms: Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) - Ana konular: en kısa yollar, NP-tam problemler ve bunların algoritma tasarımcısı için anlamı, ayrıca hesaplama açısından çözülmesi zor problemlere yönelik stratejiler.
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) - Bu kurs, her ciddi programcının algoritmalar ve veri yapıları hakkında bilmesi gereken temel bilgileri kapsar. Birinci bölüm; temel veri yapıları, sıralama ve arama algoritmalarını içerir.
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2) - İkinci bölüm; grafik (graph) ve metin (string) işleme algoritmalarına odaklanır.
+* [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) - Tomas Cormen ve Devin Balkcom tarafından verilen algoritma kursu.
+* [MIT - 6-006](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/video_galleries/lecture-videos/) - İyi açıklanmış algoritma dersleri.
+* [MIT - 6-046j](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/video_galleries/video-lectures/) - Önceki kursa benzer, ancak farklı algoritmalar üzerinde durur.
+* [MIT - 6-00sc](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) - Algoritmalara kolay ve iyi açıklanmış bir giriş.
+* [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - Modern algoritma tasarımında geniş çapta uygulanan geometrik tekniklerin bir derlemesini içerir.
+* [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python tabanlı bir algoritmalar kursu.
+* [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - *Grokking Algorithms* kitabına dayanan, eğlenceli görsellerle desteklenmiş başlangıç seviyesi algoritma kursu.
 
 
 ## Books
 
-*The most highly regarded books to learn algorithms*
+*Algoritma öğrenmek için en çok önerilen kitaplar*
 
-### Algorithms and Data structures
-* [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straightforward.
-* [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
-* [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Classical algorithms and data structures implemented and explained using JavaScript.
-* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - by  George T. Heineman.
-* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) -This great book presents dozens of coding challenges, ranging from simple tasks to clustering data using k-means.
-* [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - A great way to implement algorithms with their specific programmable tasks.
-* [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
-* [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition) - A book that teaches the theory behind AI with beautifully simple illustrations, step-by-step pseudocode, and intuitive explanations that make the math simple.
-* [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
-* [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Essential!
-* [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
-* [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory, and code.
-* [The Algorithm Design Manual](http://www.algorist.com/) - Easy to read and full of real-world examples.
-* [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - The Book.
-* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
-* [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures) - A different and a great way to introduce algorithms and data structures that can be used at work.
-* [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445) - A very accessible illustration of algorithms in the forms of puzzles. No programming experience is required!
-* [Standford CS166](https://web.stanford.edu/class/cs166/) - Standford CS166, a course in the design, analysis, and implementation of data structures.
-* [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - Grokking Data Structures carefully guides you from the most basic data structures like arrays or linked lists all the way to powerful structures like graphs. It’s perfect for beginners.
-* [Fabulous Adventures in Data Structures and Algorithms](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms) - It teaches lesser-known algorithmic approaches like immutable data structures—stacks, queues, deques, and unusual constructions like Hughes lists. 
+### Algoritmalar ve Veri Yapıları
 
-### Algorithm Analysis
-- [Sedgewick & Flajolet. An Introduction to the Analysis of Algorithm](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ) - Am advanced complete survey, intended only for the mathematically matured reader.
-- [McConnell. Analysis of Algorithms](https://www.amazon.com/Analysis-Algorithms-Jeffrey-McConnell/dp/0763707821) - A very accessible and brief book on algorithms analysis, with implemented code included.
-- [Vrajitoru & Knight. Practical Analysis of Algorithms](https://www.amazon.com/Practical-Analysis-Algorithms-Undergraduate-Computer/dp/331909887X) - A very accessible and brief book on algorithms analysis, with implemented code included.
+* [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Oldukça anlaşılır ve doğrudan bir anlatım.
+* [Algorithms](http://algs4.cs.princeton.edu/home/) - Problemler Java ile açıklanmış; nesne yönelimli iyi uygulamalar, görselleştirmeler ve ücretsiz çevrim içi kaynaklar içeriyor.
+* [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - Klasik algoritmalar ve veri yapıları, JavaScript kullanılarak uygulanmış ve açıklanmış.
+* [Algorithms in a Nutshell](https://www.amazon.com/Algorithms-Nutshell-In-OReilly/dp/059651624X) - George T. Heineman tarafından yazılmış.
+* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) - Basit görevlerden k-means kullanarak veri kümelemeye kadar uzanan onlarca kodlama problemi sunan harika bir kitap.
+* [Data Structures and Algorithms Made Easy](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - Algoritmaları belirli programlama görevleriyle birlikte uygulamak için harika bir kaynak.
+* [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - Veri yapılarının temel kavramlarını ve kullanım biçimlerini açıklar.
+* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Algoritmalar ve veri yapıları hakkında müthiş bir kitap.
+* [Grokking AI Algorithms, Second Edition](https://www.manning.com/books/grokking-ai-algorithms-second-edition) - Yapay zekâ algoritmalarının ardındaki teoriyi basit ama etkileyici görseller, adım adım sözde kodlar ve sezgisel açıklamalarla öğreten bir kitap.
+* [Grokking Algorithms](http://www.manning.com/bhargava) - Uygulamalı örneklerle desteklenmiş, görsellerle anlatılmış bir algoritma kitabı.
+* [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Vazgeçilmez!
+* [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - İleri matematik veya bilgisayar bilimi geçmişi olmayan okurlar için algoritmalara giriş niteliğinde.
+* [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - Kavramlar, teori ve kod üzerine pratik bir rehber.
+* [The Algorithm Design Manual](http://www.algorist.com/) - Okuması kolay ve gerçek dünya örnekleriyle dolu bir kitap.
+* [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - Kitapların kitabı.
+* [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition) - Bilgisayar programlarının yapısı ve yorumlanışı üzerine klasik bir eser.
+* [Advanced Algorithms and Data Structures](https://www.manning.com/books/advanced-algorithms-and-data-structures) - İş hayatında kullanılabilecek ileri düzey algoritmalar ve veri yapıları için farklı ve etkili bir yaklaşım sunar.
+* [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445) - Bulmaca biçiminde algoritmaları anlatan, kolay anlaşılır bir kitap. Programlama deneyimi gerektirmez!
+* [Stanford CS166](https://web.stanford.edu/class/cs166/) - Stanford CS166, veri yapılarının tasarımı, analizi ve uygulanması üzerine bir ders.
+* [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - *Grokking Data Structures*, diziler veya bağlı listeler gibi en temel yapılardan grafiklere kadar güçlü yapılara adım adım rehberlik eder. Yeni başlayanlar için mükemmeldir.
+* [Fabulous Adventures in Data Structures and Algorithms](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms) - Değiştirilemez (immutable) veri yapıları, yığınlar, kuyruklar, deque’lar ve Hughes listeleri gibi daha az bilinen algoritmik yaklaşımları öğretir.
+ 
 
-### Randomized Algorithms
-- [Motwani & Raghavan. Randomized Algorithms](https://www.amazon.com/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655) - A standard classic book.
-- [Mitzenmacher & Upfal. Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis](https://www.amazon.com/Probability-Computing-Randomization-Probabilistic-Techniques-ebook/dp/B06X9YBMFK) - Standard text for probability methods and their applications on randomized algorithms.
+### Algoritma Analizi
 
-## Cheat Sheets
+* [Sedgewick & Flajolet - An Introduction to the Analysis of Algorithms](https://www.amazon.com/Introduction-Analysis-Algorithms-Introdu-Algori_p2-ebook/dp/B00B3TB7IQ) - Yalnızca matematiksel olarak ileri düzey okuyucular için tasarlanmış, kapsamlı ve derinlemesine bir inceleme.
+* [McConnell - Analysis of Algorithms](https://www.amazon.com/Analysis-Algorithms-Jeffrey-McConnell/dp/0763707821) - Algoritma analizine dair, örnek kodlarla desteklenmiş kısa ve oldukça anlaşılır bir kitap.
+* [Vrajitoru & Knight - Practical Analysis of Algorithms](https://www.amazon.com/Practical-Analysis-Algorithms-Undergraduate-Computer/dp/331909887X) - Algoritma analizini pratik ve sade bir şekilde anlatan, kod örnekleri içeren kolay anlaşılır bir kaynak.
+
+
+### Rastgele (Randomized) Algoritmalar
+
+* [Motwani & Raghavan - Randomized Algorithms](https://www.amazon.com/Randomized-Algorithms-Rajeev-Motwani/dp/0521474655) - Alandaki klasik ve standart bir başvuru kitabı.
+* [Mitzenmacher & Upfal - Probability and Computing: Randomization and Probabilistic Techniques in Algorithms and Data Analysis](https://www.amazon.com/Probability-Computing-Randomization-Probabilistic-Techniques-ebook/dp/B06X9YBMFK) - Olasılık yöntemleri ve bunların rastgele algoritmalardaki uygulamaları üzerine standart bir kaynak.
+
+
+## **Kısa Notlar (Cheat Sheets)**
+
 * [Tech Interview Cheat Sheet](https://github.com/TSiege/Tech-Interview-Cheat-Sheet)
 * [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
-* [CLRS in short](https://sinon.org/algorithms//#data-structures)
-* [Rice university DS course in short](https://www.clear.rice.edu/comp160/data1.html)
-* [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
-* [Algo Deck](https://github.com/teivah/algodeck/) - An open-source collection of +200 algorithmic cards.
+* [CLRS Özeti](https://sinon.org/algorithms//#data-structures)
+* [Rice Üniversitesi Veri Yapıları Dersi Özeti](https://www.clear.rice.edu/comp160/data1.html)
+* [Faydalı Reddit Başlığı](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
+* [Algo Deck](https://github.com/teivah/algodeck/) - 200’den fazla algoritma kartı içeren açık kaynaklı bir koleksiyon.
 
 ## Github Libraries
 
