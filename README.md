@@ -17,16 +17,17 @@ Katkıda bulunmak istiyorsanız lütfen okuyun. [contribution guidelines](https:
 
 ## Websites
 
-*Websites you should use to learn classic algorithms*
+*Algoritma öğrenmek için kullanılabilecek faydalı websiteleri*
 
-* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualizations for learning how graph traversal algorithms work.
-* [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - Data Structures tutorial.
-* [CodeChef](https://www.codechef.com/roadmap/algorithms) - Learning DSA by practice on Codechef
-* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
-* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - A dense article on Algorithms Visualization.
-* [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
-* [Code-Drills](https://code-drills.com/tools/comparator) - Practice problems recommender (includes Codeforces, Codechef, and Spoj).
-* [CP-Algorithms](https://cp-algorithms.com/) - Algorithms and data structures are especially popular in the field of competitive programming.
+* [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Grafik geçiş algoritmalarının nasıl çalıştığını öğrenmek için interaktif görselleştirmeler.
+.
+* [W3School](https://www.w3schools.in/data-structures-tutorial/intro/) - veri yapıları rehberi.
+* [CodeChef](https://www.codechef.com/roadmap/algorithms) - DSA(veri bilimi) öğrenmek için pratik.
+* [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Kodlarıyla birlikte **düzinelerce animasyonlu algoritma**, ayrıca **kendi algoritmalarını da oluşturabilirsin.**
+* [Algorithms Visualization](http://bost.ocks.org/mike/algorithms/) - Algoritma görselleştirmesi üzerine yoğun (detaylı) bir makale.
+* [Big-O Cheat Sheet](http://bigocheatsheet.com/) -Bilgisayar biliminde kullanılan yaygın algoritmaların Big-O karmaşıklıkları.
+* [Code-Drills](https://code-drills.com/tools/comparator) -Alıştırma problemleri için öneriler sunan bir websitesi (Codeforces, Codechef ve Spoj dahil).
+* [CP-Algorithms](https://cp-algorithms.com/) -Algoritmalar ve veri yapıları, özellikle rekabetçi(competitive) programlama alanında oldukça popülerdir.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well-explained and implemented algorithms.
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation of how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search, and others describe a path between two points A and B.
