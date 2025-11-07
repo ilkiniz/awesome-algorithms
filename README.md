@@ -119,118 +119,132 @@ Katkıda bulunmak istiyorsanız lütfen okuyun. [contribution guidelines](https:
 * [Faydalı Reddit Başlığı](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
 * [Algo Deck](https://github.com/teivah/algodeck/) - 200’den fazla algoritma kartı içeren açık kaynaklı bir koleksiyon.
 
-## Github Libraries
+## **GitHub Kütüphaneleri**
 
-*Implementations of the most classic algorithms in a wide variety of programming languages*
+*Birçok programlama dilinde klasik algoritmaların uygulamaları*
 
-* C
-    * [by @fragglet](https://github.com/fragglet/c-algorithms)
-    * [by @TheAlgorithms](https://github.com/TheAlgorithms/C)
-* [CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)
-* C#
-    * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
-    * [by @aalhour](https://github.com/aalhour/C-Sharp-Algorithms)
-    * [by @justcoding121](https://github.com/justcoding121/Advanced-Algorithms)
-* C++
-    * [by @xtaci](https://github.com/xtaci/algorithms)
-    * [by @PetarV-](https://github.com/PetarV-/Algorithms)
-    * [by @faheel](https://github.com/faheel/Algos)
-    * [by @sslotin](http://github.com/sslotin/algo)
-* [Erlang](https://github.com/aggelgian/erlang-algorithms)
-* Go
-    * [by @arnauddri](https://github.com/arnauddri/algorithms)
-    * [by @floyernick](https://github.com/floyernick/Data-Structures-and-Algorithms)
-* Java
-    * [by @jpa99](https://github.com/jpa99/Algorithms)
-    * [by @phishman3579](https://github.com/phishman3579/java-algorithms-implementation)
-    * [by @asmolich](https://github.com/asmolich/algorithms)
-    * [by @psjava](https://github.com/psjava/psjava)
-    * [by @jeandersonbc](https://github.com/jeandersonbc/algorithms-and-ds)
-    * [by @pedrovgs](https://github.com/pedrovgs/Algorithms)
-    * [by @Erdos-Graph-Framework](https://github.com/Erdos-Graph-Framework/Erdos)
-    * [by @deepak-malik](https://github.com/deepak-malik/Data-Structures-In-Java)
-    * [by @yusufcakal](https://github.com/yusufcakal/algorithms)
-    * [by @FarheenB](https://github.com/FarheenB/Data-Structures-and-Algorithms)
-* JavaScript
-    * [by @jiayihu](https://github.com/jiayihu/pretty-algorithms)
-    * [by @felipernb](https://github.com/felipernb/algorithms.js)
-    * [by @nzakas](https://github.com/nzakas/computer-science-in-javascript)
-    * [by @duereg](https://github.com/duereg/js-algorithms)
-    * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
-    * [by @trekhleb](https://github.com/trekhleb/javascript-algorithms)
-    * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
-    * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
-    * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
-* Lua
-    * [by @evandrolg](https://github.com/EvandroLG/computer_science_in_lua)
-* Objective-C
-    * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
-* PHP
-    * [by @TheAlgorithms](https://github.com/TheAlgorithms/PHP)
-* Python
-    * [by @nryoung](https://github.com/nryoung/algorithms)
-    * [by @prakhar1989](https://github.com/prakhar1989/Algorithms)
-    * [by @laurentluce](https://github.com/laurentluce/python-algorithms)
-    * [by @nbro](https://github.com/nbro/ands)
-    * [by @keon](https://github.com/keon/algorithms)
-    * [by @vinta](https://github.com/vinta/fuck-coding-interviews)
-* Ruby
-    * [by @kanwei](https://github.com/kanwei/algorithms)
-    * [by @sagivo](https://github.com/sagivo/algorithms)
-    * [by @kumar91gopi](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
-* [Scala](https://github.com/vkostyukov/scalacaster)
-* Swift
-    * [by @kingreza](https://github.com/kingreza/Swift-Algorithms-Strings-)
-    * [by @waynewbishop](https://github.com/waynewbishop/SwiftStructures)
-    * [by @hollance](https://github.com/hollance/swift-algorithm-club)
-* Language agnostic
-    * [by @kennyledet](https://github.com/kennyledet/Algorithm-Implementations)
-    * [by @indy256](https://github.com/indy256/codelibrary)
-    * [by @sagivo](https://github.com/sagivo/algorithms)
-    * [by @patmorin](https://github.com/patmorin/ods)
-    * [by @btjanaka](https://github.com/btjanaka/algorithm-problems)
+* **C**
 
-## Online Judges
+  * [@fragglet tarafından](https://github.com/fragglet/c-algorithms)
+  * [@TheAlgorithms tarafından](https://github.com/TheAlgorithms/C)
+* **[CoffeeScript](https://github.com/BrunoRB/algorithms.coffee)**
+* **C#**
 
-*Online Judges to practice what you learned above*
+  * [@shkolovy tarafından](https://github.com/shkolovy/classic-algorithms)
+  * [@aalhour tarafından](https://github.com/aalhour/C-Sharp-Algorithms)
+  * [@justcoding121 tarafından](https://github.com/justcoding121/Advanced-Algorithms)
+* **C++**
 
-* [A2 Online Judge](https://a2oj.com/) - Online Judge and problem archive.
-* [ACM-ICPC Live Archive](https://icpcarchive.ecs.baylor.edu/) - Hundreds of problems from previous ACM-ICPC Regionals and World Finals.
-* [AIZU ONLINE JUDGE](https://onlinejudge.u-aizu.ac.jp/) - A Japanese online judge from the University of Aizu, offering a wide range of algorithmic challenges.
-* [Algo Muse](http://www.algomuse.appspot.com) - Research-based algorithmic problems. 
-* [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
-* [Baekjoon Online Judge](https://www.acmicpc.net/) - Korean Online Judge. 10000+ problems. Supports 60+ languages.
-* [Beecrowd](https://judge.beecrowd.com/) - The Largest Competitive Programming and Online Code Judgement Platform in Latin America.
-* [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
-* [CodeChef](https://www.codechef.com/) - More problems and monthly online contests.
-* [Codeforces ](http://codeforces.com/) - The only programming contests Web 2.0 platform
-* [Codefights](https://codefights.com/) - Practice programming and tackle your next tech interview
-* [CodeMarshal](https://algo.codemarshal.org/) - Real-world contests online!
-* [CodeWars](http://www.codewars.com/) - A website that houses support to solve algorithms in many languages in varying difficulty.
-* [CoderByte](http://www.coderbyte.com/) - A decent website with algorithm challenges from beginner to advanced levels. Supports most of the popular languages like C++, python, javascript, ruby.
-* [Firecode](https://www.firecode.io/) - Firecode.io uses machine learning algorithms along with curated real-world interview questions, solutions & a vibrant social community of learners to get you ready for your next coding interview.
-* [Coding Blocks](https://hack.codingblocks.com/app/) - Website that has problems based on Maths, Data Structures, Various Algorithm and also conducts Coding Competition.
-* [HackerEarth ](https://www.hackerearth.com/) - Practice algorithmic problems & challenges and participate in hiring challenges.
-* [HackerRank](https://www.hackerrank.com/) - Featured algorithm and functional programming online judges
-* [HiHoCoder](http://hihocoder.com/) - Chinese and English problem-solving practice and recruitment challenge site.
-* [Infoarena](http://www.infoarena.ro/) - Romanian Online Judge. 1500+ algorithmic problems
-* [Interviewbit](https://www.interviewbit.com/) - Learn, practice, and prepare for interviews.
-* [Kattis](https://open.kattis.com/)- Online judge and problem archive
-* [LavidaOnlineJudge](http://judge.lavida.us) - Korean Online Judge(Half English). 1300+ problems.
-* [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - Learn and practice algorithms by solving challenges online.
-* [LeetCode](https://leetcode.com/) - Learn algorithms and prepare for interviews.
-* [Paiza](https://paiza.jp/) - A Japanese platform offering coding challenges and career preparation.
-* [PKU JudgeOnline](http://poj.org/) - Chinese Online Judge.
-* [ProjectEuler](https://projecteuler.net/) - Mathematical problems that can be solved using algorithms (or just a pencil, depending on how much you already know).
-* [Rosalind](http://rosalind.info/problems/locations/) - A platform for learning bioinformatics and programming through problem-solving.
-* [ShareCode.io ](https://sharecode.io/) - Online Judge and contest host with a lot of algorithmic problems in the archive to practice.
-* [Snakify](https://snakify.org/) - An introductory Python course with 100+ algorithmic problems and a step-by-step debugger (from Russia).
-* [SPOJ](http://www.spoj.com/) - More problems.
-* [TopCoder](https://www.topcoder.com/) - Lots of problems and real-world/money-worthy problems in Graphic Design, Data Science, and Development.
-* [Toph](https://toph.co/) - Bangladeshi Online Judge. Holds online contests regularly.
-* [URI](https://www.urionlinejudge.com.br/judge/login) - Brazilian Online Judge. Not so many problems, but it's growing and it has online contests.
-* [UVA](https://uva.onlinejudge.org/) - Hundreds of problems (from previous ACM-ICPC Regionals, World Finals, and others).
-* [Codility](https://app.codility.com/programmers/challenges/) - Compete to land coding jobs at top companies
+  * [@xtaci tarafından](https://github.com/xtaci/algorithms)
+  * [@PetarV- tarafından](https://github.com/PetarV-/Algorithms)
+  * [@faheel tarafından](https://github.com/faheel/Algos)
+  * [@sslotin tarafından](http://github.com/sslotin/algo)
+* **[Erlang](https://github.com/aggelgian/erlang-algorithms)**
+* **Go**
+
+  * [@arnauddri tarafından](https://github.com/arnauddri/algorithms)
+  * [@floyernick tarafından](https://github.com/floyernick/Data-Structures-and-Algorithms)
+* **Java**
+
+  * [@jpa99 tarafından](https://github.com/jpa99/Algorithms)
+  * [@phishman3579 tarafından](https://github.com/phishman3579/java-algorithms-implementation)
+  * [@asmolich tarafından](https://github.com/asmolich/algorithms)
+  * [@psjava tarafından](https://github.com/psjava/psjava)
+  * [@jeandersonbc tarafından](https://github.com/jeandersonbc/algorithms-and-ds)
+  * [@pedrovgs tarafından](https://github.com/pedrovgs/Algorithms)
+  * [@Erdos-Graph-Framework tarafından](https://github.com/Erdos-Graph-Framework/Erdos)
+  * [@deepak-malik tarafından](https://github.com/deepak-malik/Data-Structures-In-Java)
+  * [@yusufcakal tarafından](https://github.com/yusufcakal/algorithms)
+  * [@FarheenB tarafından](https://github.com/FarheenB/Data-Structures-and-Algorithms)
+* **JavaScript**
+
+  * [@jiayihu tarafından](https://github.com/jiayihu/pretty-algorithms)
+  * [@felipernb tarafından](https://github.com/felipernb/algorithms.js)
+  * [@nzakas tarafından](https://github.com/nzakas/computer-science-in-javascript)
+  * [@duereg tarafından](https://github.com/duereg/js-algorithms)
+  * [@mgechev tarafından](https://github.com/mgechev/javascript-algorithms)
+  * [@trekhleb tarafından](https://github.com/trekhleb/javascript-algorithms)
+  * [@ManrajGrover tarafından](https://github.com/ManrajGrover/algorithms-js)
+  * [@amejiarosario tarafından](https://github.com/amejiarosario/dsa.js)
+  * [@zonayedpca tarafından](https://github.com/zonayedpca/AlgoDS.js)
+* **Lua**
+
+  * [@evandrolg tarafından](https://github.com/EvandroLG/computer_science_in_lua)
+* **Objective-C**
+
+  * [@EvgenyKarkan tarafından](https://github.com/EvgenyKarkan/EKAlgorithms)
+* **PHP**
+
+  * [@TheAlgorithms tarafından](https://github.com/TheAlgorithms/PHP)
+* **Python**
+
+  * [@nryoung tarafından](https://github.com/nryoung/algorithms)
+  * [@prakhar1989 tarafından](https://github.com/prakhar1989/Algorithms)
+  * [@laurentluce tarafından](https://github.com/laurentluce/python-algorithms)
+  * [@nbro tarafından](https://github.com/nbro/ands)
+  * [@keon tarafından](https://github.com/keon/algorithms)
+  * [@vinta tarafından](https://github.com/vinta/fuck-coding-interviews)
+* **Ruby**
+
+  * [@kanwei tarafından](https://github.com/kanwei/algorithms)
+  * [@sagivo tarafından](https://github.com/sagivo/algorithms)
+  * [@kumar91gopi tarafından](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+* **[Scala](https://github.com/vkostyukov/scalacaster)**
+* **Swift**
+
+  * [@kingreza tarafından](https://github.com/kingreza/Swift-Algorithms-Strings-)
+  * [@waynewbishop tarafından](https://github.com/waynewbishop/SwiftStructures)
+  * [@hollance tarafından](https://github.com/hollance/swift-algorithm-club)
+* **Dilden bağımsız**
+
+  * [@kennyledet tarafından](https://github.com/kennyledet/Algorithm-Implementations)
+  * [@indy256 tarafından](https://github.com/indy256/codelibrary)
+  * [@sagivo tarafından](https://github.com/sagivo/algorithms)
+  * [@patmorin tarafından](https://github.com/patmorin/ods)
+  * [@btjanaka tarafından](https://github.com/btjanaka/algorithm-problems)
+
+## **Online Judge Platformları**
+
+*Yukarıda öğrendiklerini pratik yapabileceğin Online Judge siteleri*
+
+* [**A2 Online Judge**](https://a2oj.com/) - Online Judge ve problem arşivi.
+* [**ACM-ICPC Live Archive**](https://icpcarchive.ecs.baylor.edu/) - Geçmiş ACM-ICPC bölgesel ve dünya finallerinden yüzlerce problem.
+* [**AIZU ONLINE JUDGE**](https://onlinejudge.u-aizu.ac.jp/) - Aizu Üniversitesi tarafından sunulan Japonya menşeli Online Judge, geniş algoritmik problem yelpazesiyle.
+* [**Algo Muse**](http://www.algomuse.appspot.com) - Araştırma temelli algoritma problemleri.
+* [**AtCoder**](https://atcoder.jp/) - Japon programlama yarışması sitesi.
+* [**Baekjoon Online Judge**](https://www.acmicpc.net/) - Kore merkezli Online Judge. 10.000+ problem ve 60’tan fazla dil desteği.
+* [**Beecrowd**](https://judge.beecrowd.com/) - Latin Amerika’nın en büyük rekabetçi programlama ve çevrim içi kod değerlendirme platformu.
+* [**CS Academy**](https://csacademy.com/) - Online yarışmalar ve IOI pratikleri düzenler.
+* [**CodeChef**](https://www.codechef.com/) - Aylık yarışmalar ve yüzlerce pratik problemiyle popüler bir platform.
+* [**Codeforces**](http://codeforces.com/) - Web 2.0 tabanlı tek programlama yarışması platformu.
+* [**Codefights**](https://codefights.com/) - Programlama pratiği yap ve teknik mülakatlara hazırlan.
+* [**CodeMarshal**](https://algo.codemarshal.org/) - Gerçek dünyadan yarışmalar düzenleyen platform.
+* [**CodeWars**](http://www.codewars.com/) - Farklı zorluk seviyelerinde birçok dilde algoritma çözebileceğin bir site.
+* [**CoderByte**](http://www.coderbyte.com/) - Başlangıçtan ileri seviyeye kadar algoritma problemleri içeren, C++, Python, JavaScript, Ruby gibi dilleri destekleyen site.
+* [**Firecode**](https://www.firecode.io/) - Makine öğrenimi algoritmalarıyla desteklenmiş, gerçek mülakat sorularını ve çözümlerini içeren sosyal öğrenme platformu.
+* [**Coding Blocks**](https://hack.codingblocks.com/app/) - Matematik, veri yapıları ve algoritmalara dayalı problemler ve yarışmalar içerir.
+* [**HackerEarth**](https://www.hackerearth.com/) - Algoritma problemleri çözebilir ve işe alım yarışmalarına katılabilirsin.
+* [**HackerRank**](https://www.hackerrank.com/) - Algoritma ve fonksiyonel programlama problemleri için popüler bir platform.
+* [**HiHoCoder**](http://hihocoder.com/) - Çince ve İngilizce problem çözme ve işe alım yarışmaları sunar.
+* [**Infoarena**](http://www.infoarena.ro/) - Romanya merkezli Online Judge. 1500+ algoritmik problem içerir.
+* [**Interviewbit**](https://www.interviewbit.com/) - Öğren, pratik yap ve mülakatlara hazırlan.
+* [**Kattis**](https://open.kattis.com/) - Online Judge ve problem arşivi.
+* [**LavidaOnlineJudge**](http://judge.lavida.us) - Kore merkezli Online Judge (yarı İngilizce). 1300+ problem.
+* [**Learneroo Algorithms Tutorials**](https://www.learneroo.com/subjects/8) - Algoritmaları öğren ve online olarak çözerek pratik yap.
+* [**LeetCode**](https://leetcode.com/) - Algoritma öğren ve mülakatlara hazırlan.
+* [**Paiza**](https://paiza.jp/) - Kodlama alıştırmaları ve kariyer hazırlığı sunan Japon platformu.
+* [**PKU JudgeOnline**](http://poj.org/) - Çin merkezli Online Judge.
+* [**ProjectEuler**](https://projecteuler.net/) - Matematiksel ve algoritmik olarak çözülebilen problemler (bazıları sadece kalemle bile çözülebilir).
+* [**Rosalind**](http://rosalind.info/problems/locations/) - Biyoinformatik ve programlamayı problem çözerek öğreten platform.
+* [**ShareCode.io**](https://sharecode.io/) - Online Judge ve yarışma platformu; çok sayıda algoritmik problem arşivi içerir.
+* [**Snakify**](https://snakify.org/) - 100+ algoritma problemi ve adım adım hata ayıklama aracı içeren Python temelli giriş seviyesi kurs (Rusya menşeli).
+* [**SPOJ**](http://www.spoj.com/) - Çok geniş problem arşiviyle popüler bir platform.
+* [**TopCoder**](https://www.topcoder.com/) - Grafik tasarım, veri bilimi ve yazılım geliştirme gibi alanlarda gerçek ödüllü yarışmalar.
+* [**Toph**](https://toph.co/) - Bangladeş merkezli Online Judge. Düzenli olarak yarışmalar düzenler.
+* [**URI**](https://www.urionlinejudge.com.br/judge/login) - Brezilya merkezli Online Judge. Problem sayısı az ama hızla büyüyor ve online yarışmalar düzenliyor.
+* [**UVA**](https://uva.onlinejudge.org/) - Geçmiş ACM-ICPC bölgesel ve dünya finallerinden yüzlerce problem.
+* [**Codility**](https://app.codility.com/programmers/challenges/) - Üst düzey şirketlerde iş bulmak için algoritma yarışmaları.
+
 
 ## Blogs
 
@@ -243,21 +257,22 @@ Katkıda bulunmak istiyorsanız lütfen okuyun. [contribution guidelines](https:
 * [Algorithm Tutorials by Tanuj Khattar](https://tanujkhattar.wordpress.com/) - Excellent blog by Tanuj Khattar. Covers tutorials on some interesting data structures along with example problems to solve. 
 
 
-## Tools
+## **Araçlar (Tools)**
 
-*Some tools that can help you in the learning of algorithms*
+*Algoritmaları öğrenirken işine yarayabilecek bazı araçlar*
 
-* [interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+* [**interactive-coding-challenges**](https://github.com/donnemartin/interactive-coding-challenges) - Etkileşimli, test odaklı kodlama alıştırmaları (algoritmalar ve veri yapıları üzerine).
 
-## Related Awesome Lists
-- [Math](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
-- [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - The interdisciplinary of Mathematics and Computer Science, Distinguished by its emphasis on mathematical technique and rigour.
+## **İlgili "Awesome" Listeleri**
 
+* [**Math**](https://github.com/rossant/awesome-math#readme) - Matematik üzerine ücretsiz ders notları.
+* [**Theoretical Computer Science**](https://github.com/mostafatouny/awesome-theoretical-computer-science/blob/main/README.md) - Matematik ve bilgisayar biliminin kesişimi; matematiksel teknikler ve titizlik vurgusuyla.
 
-## License
+## **Lisans (License)**
 
-And for the sake of copyleft, here's our license:
+Ve “copyleft” ruhuna uygun olarak lisansımız burada:
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+Bu çalışma, [**Creative Commons Attribution 4.0 International License**](http://creativecommons.org/licenses/by/4.0/) lisansı ile korunmaktadır.
+
