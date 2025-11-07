@@ -1,9 +1,9 @@
-# Awesome Algorithms
+# Harika Algoritmalar
 
-A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
+Algoritma pratiği yapmak isteyenler için uygun internet sitelerinin derlenmiş bir listesi.
+[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ve diğer bütün awesome Awesomeness kütüphanelerinden ilham alınarak hazırlanmıştır
 
-If you want to contribute, please read the [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
+Katkıda bulunmak istiyorsanız lütfen okuyun. [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
 - [Awesome Algorithms](#awesome-algorithms)
     - [Websites](#websites)
@@ -66,7 +66,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [MIT 18-409 - Topics in Theoretical Computer Science: An Algorithmist's Toolkit](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
 * [Udacity Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215) - Python-based Algorithms course.
 * [Algorithms in Motion](https://www.manning.com/livevideo/algorithms-in-motion) - Beginner's algorithms course with fun illustrations, based on the book Grokking Algorithms
-* ~~[YogiBearian YouTube Channel](https://www.youtube.com/channel/UCv3Kd0guxD5KWQtP---9D6g) - Lots of well-explained videos on various computer science subjects.~~ _Account terminated due to violations of Youtube Policies._
+
 
 ## Books
 
